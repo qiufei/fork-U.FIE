@@ -1,15 +1,20 @@
-# Using Python for Introductory Econometrics - Code Repository
+# Using Python, R, and Julia for Introductory Econometrics - Code Repository
 
-Welcome to the **Using Python for Introductory Econometrics** GitHub repository! This repository contains all the Python code examples and scripts that accompany the book *Using Python for Introductory Econometrics*. 
+Welcome to the **Using Python, R, and Julia for Introductory Econometrics** GitHub repository! This repository contains all the code examples and scripts from the series of books titled *Using Python for Introductory Econometrics*, *Using R for Introductory Econometrics*, and *Using Julia for Introductory Econometrics*. These books introduce three popular programming languages for implementing econometric methods based on Jeffrey M. Wooldridge’s textbook *Introductory Econometrics*.
 
-The book introduces Python as a tool for implementing key econometric methods covered in Jeffrey M. Wooldridge’s textbook *Introductory Econometrics*. The code here is structured to mirror the chapters of Wooldridge’s book and offers practical implementations of the econometric models and concepts using Python.
+The code is organized by chapter and provides practical implementations of econometric models and techniques using **Python**, **R**, and **Julia**.
 
 ## Content and Approach
 
-The book and repository are designed for students and practitioners familiar with the theory of econometrics, primarily through Wooldridge's textbook. This resource provides a hands-on guide for transitioning from theory to practice, with the following key topics covered:
+These books are designed for students and practitioners already familiar with econometric theory, particularly through Wooldridge's *Introductory Econometrics*. They provide a hands-on guide for applying econometric concepts using the following programming languages:
+- **Python**
+- **R**
+- **Julia**
 
-- **Intro to Python** for econometrics
-- **Simple and multiple regression** using matrix form and black box routines
+The repository contains code for key topics, including:
+
+- **Introduction to Python, R, and Julia** for econometrics
+- **Simple and multiple regression** using matrix form and built-in functions
 - **Inference** in small samples and asymptotics
 - **Monte Carlo simulations**
 - **Heteroscedasticity**
@@ -17,29 +22,38 @@ The book and repository are designed for students and practitioners familiar wit
 - **Pooled cross-sections and panel data**
 - **Instrumental variables (IV) and two-stage least squares (2SLS)**
 - **Simultaneous equation models**
-- **Limited dependent variables**: binary, count data, censored/truncated samples, and selection models
-- **Formatted reports** with Jupyter Notebooks, combining Python code with Markdown or LaTeX
+- **Limited dependent variables**: binary, count data, censoring, truncation, and sample selection
+- **Formatted reports** using Jupyter Notebooks, Markdown, or LaTeX
+
+The books follow the same chapter structure as Wooldridge’s textbook, ensuring a smooth transition from theory to practical implementation across all three languages.
 
 ## Structure
 
-Each chapter in this repository corresponds to a chapter from Wooldridge's *Introductory Econometrics*. The code demonstrates how to:
+This repository is divided into folders by chapter, each containing code in **Python**, **R**, and **Julia** to:
 
-1. **Implement econometric methods** with Python, replicating textbook examples.
-2. **Understand built-in Python functions** for estimation and inference by directly applying the mathematical formulas.
-3. **Run supplementary analyses**, including Monte Carlo simulations to deepen intuition.
+1. **Implement econometric models** in each language.
+2. **Replicate textbook examples** across Python, R, and Julia.
+3. **Explore built-in functions** for estimation and inference by breaking down the underlying mathematical formulas.
+4. **Run additional analyses**, such as Monte Carlo simulations, for deeper understanding.
  
+## Compatibility with Wooldridge Editions
+
+This repository is compatible with the 7th, 6th, and 5th editions of Wooldridge’s *Introductory Econometrics*. Though example numbering may vary slightly across editions, the underlying econometric methods remain consistent.
+
 ## How to Use
 
 1. **Clone the repository** or download the scripts by chapter.
-2. Open the relevant Python code files in a Jupyter Notebook or any Python IDE.
-3. Follow along with the code, modify it, and run the examples to replicate econometric methods.
+2. Open the relevant code files in your preferred environment (Jupyter Notebook for Python, RStudio for R, or any Julia IDE).
+3. Follow along with the code, modify, and run the examples to implement econometric methods in any of the three languages.
 
 ## Contributions
 
-Feel free to submit pull requests for improvements or updates. This book is self-published and continuously evolving, so contributions are welcome!
+We welcome contributions! Whether you want to improve the code, suggest additional analyses, or report any issues, feel free to submit a pull request. Since these books are self-published and continuously updated, your feedback and contributions are valuable to keep this resource growing.
 
 ## License
 
-This repository is open-source and free to use for educational purposes.
+This repository is open-source and free for educational use across all three languages.
 
 ---
+
+Enjoy learning econometrics with Python, R and Julia!

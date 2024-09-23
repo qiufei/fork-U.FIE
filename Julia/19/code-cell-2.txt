@@ -1,0 +1,5 @@
+affairs = DataFrame(wooldridge("affairs"))
+counts = freqtable(affairs.kids)
+labels = ["no", "yes"]
+
+print(counts)

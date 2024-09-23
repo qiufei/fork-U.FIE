@@ -1,0 +1,5 @@
+You can also show Julia code without executing it. You can use ``inline code``, 
+or for longer paragraphs 
+```julia
+bar(labels, counts)
+```

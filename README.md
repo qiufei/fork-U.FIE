@@ -43,5 +43,3 @@ Feel free to submit pull requests for improvements or updates. This book is self
 This repository is open-source and free to use for educational purposes.
 
 ---
-
-Enjoy learning econometrics with Python!

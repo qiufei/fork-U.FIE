@@ -1,0 +1,2 @@
+age_mean = mean(affairs.age)
+print(age_mean)

@@ -27,19 +27,6 @@ The repository contains code for key topics, including:
 
 The books follow the same chapter structure as Wooldridge’s textbook, ensuring a smooth transition from theory to practical implementation across all three languages.
 
-## Structure
-
-This repository is divided into folders by chapter, each containing code in **Python**, **R**, and **Julia** to:
-
-1. **Implement econometric models** in each language.
-2. **Replicate textbook examples** across Python, R, and Julia.
-3. **Explore built-in functions** for estimation and inference by breaking down the underlying mathematical formulas.
-4. **Run additional analyses**, such as Monte Carlo simulations, for deeper understanding.
- 
-## Compatibility with Wooldridge Editions
-
-This repository is compatible with the 7th, 6th, and 5th editions of Wooldridge’s *Introductory Econometrics*. Though example numbering may vary slightly across editions, the underlying econometric methods remain consistent.
-
 ## How to Use
 
 1. **Clone the repository** or download the scripts by chapter.
